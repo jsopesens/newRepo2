@@ -13,7 +13,7 @@
 1. Hello
 1. Hello
 ---
-	`public function helloWorld()
-	{
-		echo 'Hello World';
-	}`
+public function helloWorld()
+{
+	echo 'Hello World';
+}
