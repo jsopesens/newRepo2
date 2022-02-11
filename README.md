@@ -13,7 +13,14 @@
 1. Hello
 1. Hello
 ---
-public function helloWorld()
+`public function helloWorld()
 {
 	echo 'Hello World';
-}
+}`
+
+---
+
+| Syntax | Description |
+| ----------- | ----------- |
+| Header | Title |
+| Paragraph | Text |
