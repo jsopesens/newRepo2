@@ -1,8 +1,8 @@
 # newRepo2
 
-*Hello
-*HEllo
+* Hello
+* HEllo
 
-1.Hello
-1.Hello
-1.Hello
+1. Hello
+1. Hello
+1. Hello
