@@ -1,7 +1,7 @@
 # newRepo2
 
 * Hello
-* HEllo
+* Hello
 
 1. Hello
 1. Hello
