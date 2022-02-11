@@ -24,3 +24,6 @@
 | ----------- | ----------- |
 | Header | Title |
 | Paragraph | Text |
+
+
+~~The world is flat.~~
